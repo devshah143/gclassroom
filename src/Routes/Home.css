@@ -1,0 +1,15 @@
+
+.home__container{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .empty{
+    font-family: "Open Sans", " San serif";
+    color:#808080;
+    
+  }
